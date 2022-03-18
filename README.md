@@ -1,10 +1,9 @@
 # 7280Project2
 This is the project 2 of CS7280
 ## Introduction
-[Apache Cassandra](https://cassandra.apache.org/_/index.html) 
-  Cassandra is an open-source distributed NoSQL database system, which was originally developed by Facebook, aims to improve the search performance of email systems for simple format data, combining the data model of Google BigTable with the fully distributed architecture of Amazon Dynamo. The name Cassandra came from Greek mythology, the name of a tragic prophetess of Troy, so the logo of the project is a shining eye.
- 
-  In 2008 summer, Cassandra was discharged by Facebook on Google code as an open-sourced project. Then the project got to be an Apache Hatchery extend in Spring 2009. After graduation from Facebook, Cassandra become an official top-level project in ASP (Apache Software Foundation) on Feb 17, 2010.
+**[Apache Cassandra Official Website Link](https://cassandra.apache.org/_/index.html)**
+Cassandra is an open-source distributed NoSQL database system, which was originally developed by Facebook, aims to improve the search performance of email systems for simple format data, combining the data model of Google BigTable with the fully distributed architecture of Amazon Dynamo. The name Cassandra came from Greek mythology, the name of a tragic prophetess of Troy, so the logo of the project is a shining eye.
+In 2008 summer, Cassandra was discharged by Facebook on Google code as an open-sourced project. Then the project got to be an Apache Hatchery extend in Spring 2009. After graduation from Facebook, Cassandra become an official top-level project in ASP (Apache Software Foundation) on Feb 17, 2010. This code below is based on Docker which worked on Windows 11 System.
 ## Installation process
 1.	Firstly we went to the official website download link: https://cassandra.apache.org/_/quickstart.html
 Follow the step instructions on getting started:
